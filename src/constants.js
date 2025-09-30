@@ -154,7 +154,7 @@ img: smsLogo,
       id: 2,
       title: "Sudoku Solver",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+        "Developed a Sudoku Solver in C++ using backtracking, validating row, column, and subgrid constraints to ensure correctness. Designed the solution to handle multiple test cases with real-time outputs, while optimizing performance through recursion, modular design, and clean code practices.",
       image: sudoLogo,
       tags: ["C++","Recursion","Backtracking"],
       github: "https://github.com/ankita13406/SudokuSolver",
